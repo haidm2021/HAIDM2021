@@ -22,6 +22,7 @@ TBC
 # Committees
 ---
 ## Programme Committe:
++ Professor Dame Wendy Hall (University of Southampton, wh@ecs.soton.ac.uk)
 + Professor Tuo Leng (Shanghai University)  
 + Professor Xiaodong Yue (Shanghai University)  
 + Professor Yinmin Wang (Shanghai University)  
@@ -29,7 +30,6 @@ TBC
 
 ## Organizing Committe:   
 + Tuo Leng (Shanghai University)  
-+ Xiaodong Yue (Shanghai University)  
 + Runan Wang  (Shanghai University)  
 + Yifan Wang  (Shanghai University)  
 + Yiwen Huang  (Shanghai University)  
