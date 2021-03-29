@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Human-Centered Data, Modeling, and AI
 
 You can use the [editor on GitHub](https://github.com/haidm2021/myworkrshop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
