@@ -1,10 +1,4 @@
----
-layout: page
-title: "About"
-description: "《你是我的梦想》"
-header-img: "img/home-bg.jpg"
-multilingual: true
----
+
 ## Human-Centered Data, Modeling, and AI
 ---
 # The Workshop:
