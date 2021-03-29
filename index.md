@@ -97,3 +97,4 @@ To register for this workshop as part of the WebSci'20 conference, please visit:
 The main point of contact for this workshop is the SHU Machine Proof Group Coodinator/SHU WSTNet Lab Vice Director,  
 Professor Tuo Leng  
 tleng@shu.edu.cn
+
