@@ -9,7 +9,7 @@
    
 &emsp;&emsp;Then how do we improve or adjust our web system to alleviate the existing issue, to help AI becoming more humanistic? Like, how do we preserving privacy when we design a new social network? How do we obtain unbiased sampling in temporal and spatial dimensions, or semantic dimensions? How do we establish anti-bias learning models to avoid Ecological Fallacy? Particularly, when social media are not only offering almost infinite data to related subjects but also influence both online and offline user behavior in a various way, itself should play a vital role on every aspect of human-centered data, modeling, and AI. 
 ## Key Dates:
-● workshop At WebSci21: **22th June 2021 10:00 - 17:00 **
+● workshop At WebSci21: **22th June 2021 10:00 - 17:00**
 ## Requirements:
 The workshop will be delivered online, hence there are no special requirements for participants.
 
